@@ -1,0 +1,5 @@
+How to find the tea bag with the longest minute:
+   Look at the first tea bag and put in the cup
+   Take another tea bag and compare it with the first tea bag in the cup and 
+   keep the one with the highest minute
+   Continue the same process for every tea bag 
